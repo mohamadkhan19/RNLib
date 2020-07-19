@@ -50,7 +50,7 @@ publishing {
     }
     repositories {
         maven {
-            url "$buildDir/../../repo"
+            url "$buildDir/../../../exports/repo"
         }
     }
 }
