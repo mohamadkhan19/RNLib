@@ -77,25 +77,25 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>exports.com.google.code.findbugs</groupId>
+      <groupId>com.google.code.findbugs</groupId>
       <artifactId>jsr305</artifactId>
       <version>3.0.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>exports.com.squareup.okhttp3</groupId>
+      <groupId>com.squareup.okhttp3</groupId>
       <artifactId>okhttp</artifactId>
       <version>3.12.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>exports.com.squareup.okhttp3</groupId>
+      <groupId>com.squareup.okhttp3</groupId>
       <artifactId>okhttp-urlconnection</artifactId>
       <version>3.12.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>exports.com.squareup.okio</groupId>
+      <groupId>com.squareup.okio</groupId>
       <artifactId>okio</artifactId>
       <version>1.15.0</version>
       <scope>compile</scope>

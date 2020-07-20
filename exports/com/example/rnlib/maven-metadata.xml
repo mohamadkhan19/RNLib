@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>exports.com.example</groupId>
+  <groupId>com.example</groupId>
   <artifactId>rnlib</artifactId>
   <versioning>
     <latest>0.1</latest>
