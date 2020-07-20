@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>org.webkit</groupId>
+  <groupId>exports.org.webkit</groupId>
   <artifactId>android-jsc-intl</artifactId>
   <versioning>
     <release>r245459</release>
